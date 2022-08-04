@@ -1,1 +1,2 @@
 # starwars
+npm install
